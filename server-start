@@ -1,0 +1,4 @@
+sudo /opt/lampp/lampp start
+clear
+echo "Server Started Successfully"
+hostname -i
